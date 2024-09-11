@@ -1,0 +1,63 @@
+.container{
+  display: flex;
+  padding: 3rem;
+  border-bottom: 1px solid black;
+}
+.container1, .container2, .container3{
+  width: 30%;
+}
+.container2{
+  width: 50%;
+}
+.container3{
+  padding-top: 1rem;
+}
+.heading{
+  font-weight: 700;
+  font-size: 130%;
+}
+.heading:hover{
+  color: blue;
+  cursor:pointer
+}
+.main{
+  text-decoration: line-through;
+  display: inline;
+}
+.discount{
+  display: inline;
+  margin-left: 2rem;
+}
+.mobile1{
+  background: linear-gradient(45deg, #c8fafe, white, #E3FDFD);
+}
+.mobile2{
+  background: linear-gradient(45deg, #FDCEDF,white, #F8E8EE);
+}
+.mobile3{
+  background: linear-gradient(45deg, #e8e3ff,white, #F4EEFF);
+}
+.mobile4{
+  background: linear-gradient(45deg, #D3E0DC,white, #ECE2E1);
+}
+.mobile5{
+  background: linear-gradient(45deg, #C9CCD5,white, #C9CCD5);
+}
+.images{
+  mix-blend-mode:darken;
+}
+.subimage{
+  width: 20%;
+  margin-left: 1rem;
+}
+.price{
+  display: inline;
+  font-size: 2rem;
+}
+.offers{
+  color: green;
+  font-weight: bold;
+}
+.exchange{
+  font-weight: bold;
+}
