@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flipkart/static/css/main.745ae356.css",
+    "main.js": "/Flipkart/static/js/main.b38d0f35.js",
+    "static/js/453.b7c082f8.chunk.js": "/Flipkart/static/js/453.b7c082f8.chunk.js",
+    "index.html": "/Flipkart/index.html",
+    "main.745ae356.css.map": "/Flipkart/static/css/main.745ae356.css.map",
+    "main.b38d0f35.js.map": "/Flipkart/static/js/main.b38d0f35.js.map",
+    "453.b7c082f8.chunk.js.map": "/Flipkart/static/js/453.b7c082f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745ae356.css",
+    "static/js/main.b38d0f35.js"
+  ]
+}
